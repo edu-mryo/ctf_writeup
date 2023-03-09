@@ -38,7 +38,7 @@
 ## Nice netcat... (General Skills)
 
 1. Follow the guideline and run `nc mercury.picoctf.net 21135`
-2. The terminal will return numbers. Copy and paste the number to tool such as [this tool](duplichecker.com/ascii-to-text.php)
+2. The terminal will return numbers. Copy and paste the number to tool such as [this tool](https://www.duplichecker.com/ascii-to-text.php)
 3. Convert ASCII to text and should return flag.
 
 ## what's a net cat ? (General Skills)
