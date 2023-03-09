@@ -66,3 +66,13 @@
 2. Done
 
 ```
+
+6. First Grep (General Skills)
+
+```Text
+
+1. Install file
+2. grep pico {filename}
+3. Done
+
+```
