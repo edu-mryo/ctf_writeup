@@ -17,7 +17,7 @@
 1. Download imag
 2. Use tool such as exiftool or 29a.ch/photo-forensics/ to extract image metadata
 3. In the metadata, you will find licencse tag. Copy the string
-4. Dump the tag into [cyberchef](gchq.github.io/CyberChef/) . You will learn that the tag is base64
+4. Dump the tag into [cyberchef](https://gchq.github.io/CyberChef/) . You will learn that the tag is base64
 5. Convert to CTF tag and done.
 
 ## Information Image
