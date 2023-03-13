@@ -37,3 +37,9 @@
 6. add and get the ctf
 
 *Current Laptop is ARM64 while the executable file is for AMD64, which is not compatible. You need to use thing such as a docker to execute the file.
+
+## Static ain't always noise
+
+1. Run the bash script with the static file.
+2. grep CTF related text to find the answer.
+
